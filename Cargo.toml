@@ -1,0 +1,9 @@
+[package]
+name = "deno-unpacker"
+version = "0.1.0"
+authors = ["Belz"]
+edition = "2018"
+
+[dependencies]
+pico-args = "0.4"
+anyhow = "1.0"
